@@ -1,5 +1,8 @@
 /*
  *	Color class
+ *	name: Lewa Diarra 
+ *	email: ldiarra@wisc.edu
+ *	cs username: lewa
  */
 public class Color{
 	private String color;

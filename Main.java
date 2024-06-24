@@ -1,5 +1,8 @@
 /*
  * Test the use of the Color method
+ * name: Lewa Diarra
+ * email: ldiarra@wisc.edu
+ * cs account username: lewa
  */
 import java.util.*;
 
